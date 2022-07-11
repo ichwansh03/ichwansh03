@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, i'm Ichwan Sholihin, an informatics student from a university in Bandar Lampung, Indonesia who has an interest in software engineering. My passion as a learner is to build software that has high usability, answer solutions in the community but still apply some software development rules such as clean code and design patterns
+Hi, i'm Ichwan Sholihin, an informatics student from Universitas Teknokrat Indonesia in Bandar Lampung, who has an interest in software engineering. My passion as a learner is to build software that has high usability, answer solutions in the community but still apply some software development rules such as clean code and design patterns
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
