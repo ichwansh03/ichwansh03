@@ -35,7 +35,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```text
 Java         9 hrs 42 mins   ██████████████████████░░░   85.48 %
-PHP          31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Kotlin       31 mins         ████████████░░░░░░░░░░░░░   50.87 %
 Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
@@ -52,7 +52,7 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sholihin030401&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
