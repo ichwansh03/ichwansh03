@@ -2,8 +2,11 @@
 <a href="https://www.instagram.com/ichwan_sholihin/">
   <img align="left" alt="Ichwan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/ichwan-sholihin-377255195/">
+<a href="https://www.linkedin.com/in/ichwan-sholihin/">
   <img align="left" alt="Ichwan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://ichwansholihin03.medium.com/">
+  <img align="left" alt="Ichwan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=sholihin030401.sholihin030401)
