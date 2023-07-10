@@ -3,7 +3,7 @@
   <img align="left" alt="Ichwan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/ichwan-sholihin/">
-  <img align="left" alt="Ichwan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ichwan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
 </a>
 <a href="https://ichwansholihin03.medium.com/">
   <img align="left" alt="Ichwan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
@@ -56,5 +56,9 @@ Other        10 mins         ▒░░░░░░░░░░░░░░░░
 📈 my github stats
 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ichwansh03&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ichwansh03" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ichwansh03" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ichwansh03&theme=highcontrast&hide_border=true" alt="ichwansh03" /> </p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
+  <img  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/typio/typio/output/github-contribution-grid-snake.svg">
+</picture>
 
