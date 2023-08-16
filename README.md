@@ -23,23 +23,14 @@
 
 📈 my github stats
 <p align="center"> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ichwansh03&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ichwansh03" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ichwansh03&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ichwansh03" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ichwansh03" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ichwansh03&theme=highcontrast&hide_border=true" alt="ichwansh03" /> 
 </p>
 
 <div align="center">
-<p>
-<a href="https://github-profile-summary-cards.vercel.app/demo.html">Get your own cards now!!</a>
-</p>
-
-
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichwansh03&theme=2077)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
-
 </div>
 
 
