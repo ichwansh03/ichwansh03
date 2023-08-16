@@ -14,13 +14,9 @@
 
 
 📈 my github stats
-<p align="center"> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ichwansh03&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ichwansh03" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ichwansh03" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ichwansh03&theme=highcontrast&hide_border=true" alt="ichwansh03" /> 
-</p>
-
 <div align="center">
+  
+![Ichwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=dracula)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichwansh03&theme=2077)
 </div>
