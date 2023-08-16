@@ -1,13 +1,5 @@
 ### Hey there 
-<a href="https://www.instagram.com/ichwan_sholihin/">
-  <img align="left" alt="Ichwan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/ichwan-sholihin/">
-  <img align="left" alt="Ichwan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
-</a>
-<a href="https://ichwansholihin03.medium.com/">
-  <img align="left" alt="Ichwan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=ichwansh03&color=blue)
 
 
 **languages and tools:**  
