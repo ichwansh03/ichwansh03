@@ -1,6 +1,7 @@
 ### Hey there, i'm Ichwan Sholihin 
 ![Profile Views](https://komarev.com/ghpvc/?username=ichwansh03&color=blue)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ichwansh03&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Languages:**  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
