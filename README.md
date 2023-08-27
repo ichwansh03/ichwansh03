@@ -37,7 +37,7 @@
 
 ![Ichwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ichwansh03&theme=tokyonight&border_radius=3.7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ichwansh03&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichwansh03&theme=2077)
 </div>
