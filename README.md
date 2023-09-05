@@ -13,7 +13,7 @@
 
 ![Ichwan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ichwansh03&hide=javascript,html,css&theme=tokyonight)
 
-![Ichwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=dracula)
+![Ichwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichwansh03&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ichwansh03&theme=tokyonight)](https://git.io/streak-stats)
 
