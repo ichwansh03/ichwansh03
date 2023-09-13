@@ -1,5 +1,5 @@
-### Hey there, i'm Ichwan Sholihin 
-![Profile Views](https://komarev.com/ghpvc/?username=ichwansh03&color=blue)
+<h1 align="center">Hi 👋, I'm Ichwan Sholihin</h1>
+<h3 align="center">has a strong passion as Android Developer</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ichwansh03&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
