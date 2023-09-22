@@ -2,6 +2,8 @@
 <h3 align="center">has a strong passion as Android Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichwansh03&label=Profile%20views&color=0e75b6&style=flat" alt="ichwansh03" /> </p>
 
+<a href="https://stardev.io/developers/ichwansh03"><img alt="Check out ichwansh03's profile on stardev.io" src="https://stardev.io/developers/ichwansh03/badge/languages/locality.svg" /></a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ichwansh03&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Social contributions (click for detail):**  
