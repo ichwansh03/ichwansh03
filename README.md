@@ -19,5 +19,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichwansh03&theme=2077)
 </div>
 
+**My saved articles:**
+[Microservice architecture pattern](https://microservices.io/patterns/microservices.html)
 
-
+[Clean code blog](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
