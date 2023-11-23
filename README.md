@@ -32,3 +32,5 @@
 [Object Oriented Design](https://www.oodesign.com/)
 
 [dev.java](https://dev.java/)
+
+[gang of 4 design pattern](https://springframework.guru/gang-of-four-design-patterns/)
