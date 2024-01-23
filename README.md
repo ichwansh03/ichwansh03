@@ -36,3 +36,5 @@
 [dev.java](https://dev.java/)
 
 [gang of 4 design pattern](https://springframework.guru/gang-of-four-design-patterns/)
+
+[farnam street article](https://fs.blog/blog/)
